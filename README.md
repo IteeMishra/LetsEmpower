@@ -8,4 +8,4 @@ The platform also comprises of a section where women can find their source of mo
 youtube link
 
 # Uneditable Link of Replit
-replit uneditable link
+https://replit.com/@CS057ITEEMISHRA/iteexyz#index.html
