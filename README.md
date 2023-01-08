@@ -7,5 +7,5 @@ The platform also comprises of a section where women can find their source of mo
 # Demo Video Link
 youtube link
 
-# Ineditable Link of Replit
+# Uneditable Link of Replit
 replit uneditable link
