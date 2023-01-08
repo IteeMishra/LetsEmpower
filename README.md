@@ -5,7 +5,7 @@ Shebuild is a platform focused towards empowering women in the field of technolo
 The platform also comprises of a section where women can find their source of motivation or find thier inspiration.
 
 # Demo Video Link
-youtube link
+https://www.youtube.com/watch?v=C-eUt3fCPf4
 
 # Uneditable Link of Replit
 https://replit.com/@CS057ITEEMISHRA/iteexyz#index.html
